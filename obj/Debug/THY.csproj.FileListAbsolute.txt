@@ -1,0 +1,46 @@
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\bin\Debug\THY.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\bin\Debug\THY.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\bin\Debug\THY.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.AnaSayfa.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.GirisEkrani.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.Admin.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.Yonetici.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.UcusEkle.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.Kayit.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.KOnayla.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.AOnayla.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.YOnayla.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.Admin.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.AnaSayfa.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.AOnayla.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.GirisEkrani.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.Kayit.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.KOnayla.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.UcusEkle.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.YOnayla.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.Yonetici.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\bin\Debug\THY.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\bin\Debug\THY.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\bin\Debug\THY.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.UcusAra.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.SatinAl.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.SatinAl.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY - Kopya\THY\obj\Debug\THY.UcusAra.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.Bilet.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.UcusDurumu.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.SatislariGor.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Veri Tabanı ve Yönetim Sistemleri\THY\THY\obj\Debug\THY.Kullanici.resources
